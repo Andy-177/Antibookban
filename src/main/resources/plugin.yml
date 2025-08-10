@@ -1,0 +1,3 @@
+name: Antibookban
+version: '${version}'
+main: paper.plugin.antibookban.Antibookban
